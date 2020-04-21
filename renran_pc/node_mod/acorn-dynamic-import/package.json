@@ -31,7 +31,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "acorn": "^4.0.3"
+    "acorn": "^7.1.1"
   },
   "deprecated": false,
   "description": "Support dynamic imports in acorn",
